@@ -10,6 +10,8 @@ https://daviny.vidal.nom.br
 
 https://digitalinnovation.one
 
+[Slides](./Digital-Innovation-One-Shell-Script-manipulando-arquivos.pptx.pdf)
+
 
 
 ## O que é Shell Script?

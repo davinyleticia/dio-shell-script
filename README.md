@@ -4,11 +4,11 @@ Curso administrada por mim (Daviny Vidal) na Digital Innovation One
 
 ## Referência
 
-[https://divulgue.info/@davinyvidal](Página Pessoal)
+https://divulgue.info/@davinyvidal
 
-[https://daviny.vidal.nom.br](Projeto Documentações - Daviny Vidal)
+https://daviny.vidal.nom.br
 
-[https://digitalinnovation.one](Digital Innovation One)
+https://digitalinnovation.one
 
 
 

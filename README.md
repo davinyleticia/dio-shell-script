@@ -4,9 +4,9 @@ Curso administrada por mim (Daviny Vidal) na Digital Innovation One
 
 ## Referência
 
-https://divulgue.info/@davinyvidal
+https://divulgue.info/@davinyvidal - Web Site Pessoal
 
-https://daviny.vidal.nom.br
+https://daviny.vidal.nom.br  - Meu site de documentação
 
 https://digitalinnovation.one
 

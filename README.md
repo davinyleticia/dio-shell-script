@@ -4,8 +4,6 @@ Curso administrada por mim (Daviny Vidal Ela/She) na Digital Innovation One
 
 ## Referência
 
-https://dnydocs.vidal.dev.br  - Meu site de documentação
-
 https://digitalinnovation.one
 
 [Slides](./Digital-Innovation-One-Shell-Script-manipulando-arquivos.pptx.pdf)

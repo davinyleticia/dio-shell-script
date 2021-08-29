@@ -1,6 +1,6 @@
 # Repositório do Curso de Shell Script - Digital Innovation One 
 
-Curso administrada por mim (Daviny Vidal) na Digital Innovation One
+Curso administrada por mim (Daviny Vidal Ela/She) na Digital Innovation One
 
 ## Referência
 
